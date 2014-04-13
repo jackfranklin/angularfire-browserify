@@ -1,6 +1,6 @@
 {
   "name": "angularfire-browserify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Using Firebase's AngularFire with Browserify",
   "main": "index.js",
   "scripts": {
